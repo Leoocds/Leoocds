@@ -15,7 +15,7 @@ I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Deve
 <div id="stats"></div>
 
 ## 📈 Stats
-<img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=S4IL21&show_icons=true&count_private=true&theme=default" height="200px">
+<img alt="GitHub Stats" src="https://github-readme-stats-six-seven.vercel.app/api?username=S4IL21&show_icons=true&count_private=true&theme=dark" height="200px">
 
 <br>
 
@@ -35,5 +35,5 @@ I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Deve
 <br>
 <br>
                 
-[![Top Langs]("https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=S4IL21&layout=compact&langs_count=8&theme=default")
+<img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=S4IL21&layout=compact&langs_count=8&theme=dark" height="200px">
 
