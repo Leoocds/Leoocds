@@ -2,7 +2,7 @@
 
 <div id="about_me"></div>
 
-## 🚀 About me
+## 👨‍💻 About me
 
 I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Development. Welcome to my profile! Here you will find information about me and my projects.
 
@@ -21,7 +21,7 @@ I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Deve
 
 <div id="stack"></div>
 
-## 👩‍💻 My Stack
+## 🛠️ My Stack
 
 <div style="display: inline_block"><br>
   <a href="#"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"></a>&nbsp;
@@ -34,6 +34,7 @@ I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Deve
 </div>
 <br>
 <br>
-                
+
+## ⚡Top Languages                
 <img alt="Top Languages" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=S4IL21&layout=compact&langs_count=8&theme=dark" height="200px">
 
