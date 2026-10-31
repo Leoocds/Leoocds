@@ -8,7 +8,10 @@ I'm Leonardo de Lima Pedroso, a fullstack developer, with a passion for Web Deve
 
 🔭 Currently, I'm seeking an opportunity as a full stack or front-end developer.<br>
 🧠 I'm constantly learning and improving in frameworks (React, Next and Node).<br>
+🌐 Portfolio: [leonardopedroso.vercel.app](https://leonardopedroso.vercel.app/)<br>
 📫 You can reach me via email: leonardoo.lpedroso@gmail.com
+
+<a href="https://leonardopedroso.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-leonardopedroso.vercel.app-1a56f0?style=for-the-badge&logo=vercel&logoColor=white"></a>
 
 <br>
 
